@@ -1,0 +1,25 @@
+
+li span {
+    font-weight: bold;
+}
+
+ul {
+    list-style: none;
+    padding: 0px;
+}
+
+
+  div.container {
+      width: 300px;
+
+  }
+
+
+div {  
+    border:1px solid lightgray;
+    padding: 10px;
+  }
+
+  img {
+      width: 100%;
+  }
